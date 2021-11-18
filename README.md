@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TenderPig
-- 👀 I’m interested movies and bookesin ...
+- 👀 I’m interested...movies and books
 - 🌱 I’m currtly learning ...java
 - 💞️ I’m looking to collaborate on ...nothing
 - 📫 How to reach me ...baiwei.zhang@qq.com
